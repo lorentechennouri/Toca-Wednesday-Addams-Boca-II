@@ -33,10 +33,10 @@
             "iron_source_key": "1961def7d",
 
             "diamond": "https://raw.githubusercontent.com/mone4eanee/ModdoorsfloorobLox/main/diam.png",
-            "cover": "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/couver.jpg",
-            "covercalla": "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/1.jpg",
-            "covercallz": "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/2.jpg",
-            "covercalle": "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/3.jpg",
+            "cover": "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/cou2.jpeg",
+            "covercalla": "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/cou1.jpg",
+            "covercallz": "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/cou3.jpg",
+            "covercalle": "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/cou2.jpeg",
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
@@ -157,47 +157,47 @@
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/1.png",
+            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/1.png",
             "bg" : "#FBBF24"
         },{
             "active" : "true",
             "name" : "spinner",
-            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/2.png",
+            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/2.png",
             "bg" : "#A3E635"
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/3.png",
+            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/3.png",
             "bg" : "#38BDF8"
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/4.png",
+            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/4.png",
             "bg" : "#2DD4BF"
         },{
             "active" : "true",
             "name" : "quiz",
-            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/5.png",
+            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/5.png",
             "bg" : "#4ADE80"
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/6.png",
+            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/6.png",
             "bg" : "#2196F3"
         },{
             "active" : "true",
             "name" : "more",
-            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/7.png",
+            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/7.png",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
             "name" : "caller",
-            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/7.png",
+            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/8.png",
             "bg" : "#3F51B5"
         },{
             "active" : "true",
             "name" : "games",
-            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/8.png",
+            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/9.png",
             "bg" : "#673AB7"
         }
     ],
@@ -237,26 +237,26 @@
     
     "games" : [
         {
-            "name" : "chapter 3",
-            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/1.jpg",
+            "name" : "Toca boca Wednesday 1",
+            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/1.png",
             "link" : "https://html5.gamemonetize.co/ntaoxztdx6j8p6fz4dh6exdyeth9y1jx/",
             "cat" : "Overall",
             "orientation" : "0"
         },{
-            "name" : "CHAPTER 2",
-            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/2.jpg",
+            "name" : "Toca boca Wednesday 2",
+            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/2.png",
             "link" : "https://yandex.com/games/app/192536?utm_source=yandex&utm_medium=com&utm_campaign=morda#app-id=192536&catalog-session-uid=catalog-16cb0407-7a17-57ac-bde8-e7bcdd1581cb-1673482397201-f628&rtx-reqid=10980411383013247026&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
             "cat" : "Strategies",
             "orientation" : "0"
         },{
-            "name" : "CHAPTER 1",
-            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/3.jpg",
+            "name" : "Toca boca Wednesday 3",
+            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/3.png",
             "link" : "https://www.y8.com/games/it_s_playtime_they_are_coming/mobile",
             "cat" : "Soccer",
             "orientation" : "1"
         },{
-            "name" : "CHAPTER 0",
-            "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/4.jpg",
+            "name" : "Toca boca Wednesday 4",
+            "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/4.png",
             "link" : "https://www.agame.com/game/poppy-huggie-escape",
             "cat" : "Arcade",
             "orientation" : "0"
@@ -266,58 +266,58 @@
     
     "scratch" : [
         {
-            "img" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/5.jpg"
+            "img" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/1.png"
         },{
-            "img" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/4.jpg"
+            "img" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/15.png"
         },{
-            "img" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/3.jpg"
+            "img" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/14.png"
         },{
-            "img" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/2.jpg"
+            "img" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/13.png"
         },{
-            "img" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/1.jpg"
+            "img" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/12.png"
         }
     ],
 
     "wallpapers" : [
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/1.jpg"
+            "img" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/1.png"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/2.jpg"
+            "img" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/2.png"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/3.jpg"
+            "img" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/3.png"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/4.jpg"
+            "img" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/4.png"
         },
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/5.jpg"
+            "img" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/5.png"
         },
         {
             "name" : "",
-            "img" : "https://pbs.twimg.com/media/EnQ9Y0rW8AE7poC.jpg:large"
+            "img" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/6.png"
         },
         {
             "name" : "",
-            "img" : "https://mfiles.alphacoders.com/961/thumb-1920-961986.jpg"
+            "img" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/7.png"
         },
         {
             "name" : "",
-            "img" : "https://indwallpapers.com/wp-content/uploads/2021/02/Wallpaper-Fall-Guys.jpg"
+            "img" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/8.png"
         },
         {
             "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-ultimate-knockout-2020-6801.jpg"
+            "img" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/9.png"
         },
         {
             "name" : "",
-            "img" : "https://www.xtrafondos.com/wallpapers/vertical/fall-guys-temporada-3-2020-6809.jpg"
+            "img" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/10.png"
         }
     ],
     
