@@ -111,15 +111,15 @@
         {
             "images" :
             [
-                { "image" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/1.jpg" },
-                { "image" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/2.jpg" },
-                { "image" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/3.jpg" },
-                { "image" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/4.jpg" },
-                { "image" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/garten-of-banban-3-chapter-2-3-4/main/game/5.jpg" },
-                { "image" : "https://i.quotev.com/nmk7j5mjtdla.jpg" },
-                { "image" : "https://i.quotev.com/qn4k3m4vgr5a.jpg" },
-                { "image" : "https://i.quotev.com/yq67tsyngxxa.jpg" },
-                { "image" : "https://i.quotev.com/nmk7j5mjtdla.jpg" }
+                { "image" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/2.png" },
+                { "image" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/3.png" },
+                { "image" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/14.png" },
+                { "image" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/15.png" },
+                { "image" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/12.png" },
+                { "image" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/9.png" },
+                { "image" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/7.png" },
+                { "image" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/3.png" },
+                { "image" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/4.png" }
             ],
             "answers" :
             [
@@ -281,7 +281,7 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/1.png"
+            "img" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/11.png"
         },
         {
             "name" : "",
