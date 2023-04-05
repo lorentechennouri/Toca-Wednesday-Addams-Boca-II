@@ -150,7 +150,7 @@
     
     "menu" : [
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
@@ -170,12 +170,12 @@
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/3.png",
             "bg" : "#38BDF8"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/4.png",
             "bg" : "#2DD4BF"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/5.png",
             "bg" : "#4ADE80"
@@ -185,17 +185,17 @@
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/6.png",
             "bg" : "#2196F3"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "more",
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/7.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "caller",
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/8.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "games",
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/9.png",
             "bg" : "#673AB7"
