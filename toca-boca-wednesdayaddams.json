@@ -30,7 +30,7 @@
             "fan_native": "",
             "fan_int": "",
 
-            "iron_source_key": "1961def7d",
+            "iron_source_key": "",
 
             "diamond": "https://raw.githubusercontent.com/mone4eanee/ModdoorsfloorobLox/main/diam.png",
             "cover": "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/cou2.jpeg",
@@ -190,12 +190,12 @@
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/7.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "caller",
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/8.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "games",
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/9.png",
             "bg" : "#673AB7"
@@ -239,25 +239,25 @@
         {
             "name" : "Toca boca Wednesday 1",
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/1.png",
-            "link" : "https://html5.gamemonetize.co/ntaoxztdx6j8p6fz4dh6exdyeth9y1jx/",
+            "link" : "https://play-games.com/files/html5/TocaColoringBook/index.html",
             "cat" : "Overall",
             "orientation" : "0"
         },{
             "name" : "Toca boca Wednesday 2",
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/2.png",
-            "link" : "https://yandex.com/games/app/192536?utm_source=yandex&utm_medium=com&utm_campaign=morda#app-id=192536&catalog-session-uid=catalog-16cb0407-7a17-57ac-bde8-e7bcdd1581cb-1673482397201-f628&rtx-reqid=10980411383013247026&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22search%22%7D",
+            "link" : "https://play-games.com/files/html5/PGMemoryTocaBoca/v1/index.html",
             "cat" : "Strategies",
             "orientation" : "0"
         },{
             "name" : "Toca boca Wednesday 3",
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/3.png",
-            "link" : "https://www.y8.com/games/it_s_playtime_they_are_coming/mobile",
+            "link" : "https://play-games.com/files/html5/WednesdayMemoryCards/1/index.html",
             "cat" : "Soccer",
-            "orientation" : "1"
+            "orientation" : "0"
         },{
             "name" : "Toca boca Wednesday 4",
             "ico" : "https://raw.githubusercontent.com/lorentechennouri/Toca-Wednesday-Addams-Boca-II/main/jso/images/4.png",
-            "link" : "https://www.agame.com/game/poppy-huggie-escape",
+            "link" : "https://html5.gamedistribution.com/46ca067b99e34a2c80c6ff216eaa7263/",
             "cat" : "Arcade",
             "orientation" : "0"
         }
